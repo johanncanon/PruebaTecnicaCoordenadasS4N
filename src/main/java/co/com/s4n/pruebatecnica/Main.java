@@ -22,6 +22,7 @@ public class Main {
 
         ReadFile leerArchivo = new ReadFile();
         Indicativo indicativo = new Indicativo();
+        
         String ruta = "D:\\in010.txt";            
         /**
          * Genera las listas de parametros segun la lectura del archivo en dicha ruta
